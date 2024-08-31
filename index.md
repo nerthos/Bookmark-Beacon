@@ -1,5 +1,5 @@
 #Welcome to my project
-This is the main page of my project
+This is personal project.
 
 ## Privacy Policy
 Read our Privacy Policy
