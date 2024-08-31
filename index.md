@@ -1,12 +1,8 @@
-#Welcome to my project
+## Welcome to my project
 This is personal project.
 
 ## Privacy Policy
-Read our Privacy Policy
+Read our [Privacy Policy](privacy-policy.md)
 
 ## Terms of Service
-Read our Terms of Service
-
-## Welcome to My Project
-
-Please read our Privacy Policy and Terms of Service before using our site.
+Read our [Terms of Service](terms-of-service.md)
