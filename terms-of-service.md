@@ -4,11 +4,11 @@ Last Updated: 31/08/2024
 
 Welcome to Bookmark Beacon! These Terms of Service ("Terms") govern your use of our services, including our website, application, and any related products or services (collectively, the "Service"). By using Bookmark Beacon, you agree to these Terms. If you do not agree, do not use our Service.
 
-1. **Acceptance of Terms**
+1. Acceptance of Terms
 
 By accessing or using the Service, you agree to be bound by these Terms and any other guidelines, policies, or rules referenced herein, including our Privacy Policy. If you do not agree to these Terms, please discontinue use of the Service.
 
-2. **Eligibility**
+2. Eligibility
 
 To use the Service, you must:
 
@@ -17,7 +17,7 @@ Have the legal capacity to enter into a binding agreement.
 Provide accurate and complete information during the registration process.
 By using the Service, you confirm that you meet these requirements.
 
-3. **Account Registration**
+3. Account Registration
 
 Account Creation: To access certain features of the Service, you may be required to create an account. You must provide accurate, complete, and current information during the registration process.
 Account Security: You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password. You agree to notify us immediately of any unauthorized use of your account.
